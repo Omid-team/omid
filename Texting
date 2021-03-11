@@ -3,72 +3,49 @@
     "1": "میراث",
     "image": "https://s16.picofile.com/file/8427459800/IMG_20210309_193117_468.png",
     "t": "k",
-    "apk": ""
+    "apk": "",
+    "m": "تفننی"
   },
   {
     "1": "کاتاف",
     "image": "https://s16.picofile.com/file/8427461584/IMG_20210309_195046_876.png",
     "t": "k",
-    "apk": ""
+    "apk": "",
+    "m": "رانندگی"
   },
   {
     "1": "مینی میلیتیا",
     "image": "https://s17.picofile.com/file/8427461518/IMG_20210309_195042_119.png",
     "t": "k",
-    "apk": ""
+    "apk": "",
+    "m": "تفننی"
   },
   {
     "1": "Testing",
     "image": "https://s16.picofile.com/file/8427459918/IMG_20210309_193413_212.png",
     "t": "k",
-    "apk": ""
+    "apk": "",
+    "m": "عکس فیلم"
   },
   {
     "1": "Send",
     "image": "https://s16.picofile.com/file/8427460142/IMG_20210309_193543_778.png",
     "t": "k",
-    "apk": ""
+    "apk": "",
+    "m": "صوت موسیقی"
   },
   {
     "1": "minich",
     "image": "https://s16.picofile.com/file/8427461368/IMG_20210309_195035_848.png",
     "t": "k",
-    "apk": ""
+    "apk": "",
+    "m": "استراتژیک"
   },
   {
     "1": "nameee",
     "image": "https://s16.picofile.com/file/8427461368/IMG_20210309_195035_848.png",
     "t": "k",
-    "apk": ""
-  },
-  {
-    "1": "nameee",
-    "image": "https://s16.picofile.com/file/8427461368/IMG_20210309_195035_848.png",
-    "t": "k",
-    "apk": ""
-  },
-  {
-    "1": "nameee",
-    "image": "https://s16.picofile.com/file/8427461368/IMG_20210309_195035_848.png",
-    "t": "k",
-    "apk": ""
-  },
-  {
-    "1": "nameee",
-    "image": "https://s16.picofile.com/file/8427461368/IMG_20210309_195035_848.png",
-    "t": "k",
-    "apk": ""
-  },
-  {
-    "1": "nameee",
-    "image": "https://s16.picofile.com/file/8427461368/IMG_20210309_195035_848.png",
-    "t": "k",
-    "apk": ""
-  },
-  {
-    "1": "nameee",
-    "image": "https://s16.picofile.com/file/8427461368/IMG_20210309_195035_848.png",
-    "t": "k",
-    "apk": ""
+    "apk": "",
+    "m": "ورزشی"
   }
 ]
