@@ -152,5 +152,12 @@
     "image": "https://s17.picofile.com/file/8426617134/PicsArt_03_01_06_35_22.png",
     "video": "https://www.aparat.com/video/video/embed/videohash/Whq2L/vt/frame?\u0026recom\u003dnone",
     "code": ""
+  },
+  {
+    "1": "اموزش ساخت برنامه نمایش ip",
+    "2": "شما در این اموزش یاد میگیرید که چطور برنامه ای بسازید که ip شما کاربر رو نمایش بده \nاموزشی کوتاه و بسیار کاربردی و ساده \n\n■□■□\n\nمدرس:امیر حسام فرهادی\nتدوین: یوسف صادقی\nارائه شده توسط تیم اسکچور هلپر",
+    "image": "https://s17.picofile.com/file/8428235192/PicsArt_03_16_01_58_46.png",
+    "video": "https://www.aparat.com/video/video/embed/videohash/16dWf/vt/frame?\u0026recom\u003dnone",
+    "code": "https://api.ipify.org/?format\u003djson"
   }
 ]
