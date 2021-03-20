@@ -166,5 +166,12 @@
     "image": "https://s16.picofile.com/file/8428297326/PicsArt_03_17_07_02_53.png",
     "video": "https://www.aparat.com/video/video/embed/videohash/lTZCL/vt/frame?\u0026recom\u003dnone",
     "code": "getWindow().getDecorView()\n  .setSystemUiVisibility(\n    View.SYSTEM_UI_FLAG_HIDE_NAVIGATION | View.SYSTEM_UI_FLAG_IMMERSIVE_STICKY\n  );\n\n//mode by Sketchware helper"
+  },
+  {
+    "1": "Custom Dialog",
+    "2": "شما در این اموزش یاد میگیرید که چطور یک Custom Dialog برای برنامتون بزارید و لذت ببرید \ncustom Dialog : شخصی سازی کردن دیالوگ \n\n■□■□\n\nمدرس:امید مددی \nتدوین: یوسف صادقی\nارائه شده توسط تیم اسکچور هلپر",
+    "image": "https://s17.picofile.com/file/8428474192/PicsArt_03_19_08_40_43.jpg",
+    "video": "https://www.aparat.com/video/video/embed/videohash/cmMbo/vt/frame?\u0026recom\u003dnone",
+    "code": "//کد اول\n\nfinal AlertDialog dialog \u003d new AlertDialog.Builder(MainActivity.this).create();\nLayoutInflater inflater \u003d getLayoutInflater();\n//mode by sketchware helper\nView convertView \u003d (View) inflater.inflate(R.layout.custom_dialog, null);\ndialog.setView(convertView); \ndialog.getWindow().setBackgroundDrawableResource(android.R.color.transparent);\n\n//متن یک\nTextView b1 \u003d (TextView)\nconvertView.findViewById(R.id.b1);\n\n//متن دو\n\nTextView b2 \u003d (TextView)\nconvertView.findViewById(R.id.b2);\n\n//کد دکمه\n\nButton bt1 \u003d (Button)\nconvertView.findViewById(R.id.bt1);\n\n//کد لاینر\n\nLinearLayout bg \u003d (LinearLayout) convertView.findViewById(R.id.bg);\n\n//کد نمایش دیالوگ\ndialog.show();"
   }
 ]
