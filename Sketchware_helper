@@ -173,5 +173,12 @@
     "image": "https://s17.picofile.com/file/8428474192/PicsArt_03_19_08_40_43.jpg",
     "video": "https://www.aparat.com/video/video/embed/videohash/cmMbo/vt/frame?\u0026recom\u003dnone",
     "code": "//کد اول\n\nfinal AlertDialog dialog \u003d new AlertDialog.Builder(MainActivity.this).create();\nLayoutInflater inflater \u003d getLayoutInflater();\n//mode by sketchware helper\nView convertView \u003d (View) inflater.inflate(R.layout.custom_dialog, null);\ndialog.setView(convertView); \ndialog.getWindow().setBackgroundDrawableResource(android.R.color.transparent);\n\n//متن یک\nTextView b1 \u003d (TextView)\nconvertView.findViewById(R.id.b1);\n\n//متن دو\n\nTextView b2 \u003d (TextView)\nconvertView.findViewById(R.id.b2);\n\n//کد دکمه\n\nButton bt1 \u003d (Button)\nconvertView.findViewById(R.id.bt1);\n\n//کد لاینر\n\nLinearLayout bg \u003d (LinearLayout) convertView.findViewById(R.id.bg);\n\n//کد نمایش دیالوگ\ndialog.show();"
+  },
+  {
+    "1": "Spinner",
+    "2": "شما در این اموزش یاد میگیرید که چطور یک spinner برا برنامتون بزارید و از امکاناتش استفاده کنید \nبسیار ساده و کاربردی \n\n■□■□\n\nمدرس:امید مددی \nتدوین: یوسف صادقی\nارائه شده توسط تیم اسکچور هلپر",
+    "image": "https://s16.picofile.com/file/8428521276/PicsArt_03_21_11_03_32.jpg",
+    "video": "https://www.aparat.com/video/video/embed/videohash/uNSfV/vt/frame?\u0026recom\u003dnone",
+    "code": ""
   }
 ]
