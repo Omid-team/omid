@@ -194,5 +194,12 @@
     "image": "https://s16.picofile.com/file/8428820750/PicsArt_03_24_11_06_29.jpg",
     "video": "https://www.aparat.com/video/video/embed/videohash/t90Du/vt/frame?\u0026recom\u003dnone",
     "code": "\nAnimation anim \u003dnew AlphaAnimation(0.0f,1.0f); \nanim.setDuration(50);\nanim.setStartOffset(20);\nanim.setRepeatMode(Animation.REVERSE);\nanim.setRepeatCount(Animation.INFINITE);\ntextview1.startAnimation(anim);\n\n//mode by sketchware helper"
+  },
+  {
+    "1": "Text Repeater",
+    "2": "شما در این اموزش یاد میگیرید که چطور یک اسپمر فوق پیشرفته بسازید که بتوانید تعداد هم مشخص کنید \n■□■□\n\nمدرس:سید علیرضا حسینی\nتدوین: یوسف صادقی\nارائه شده توسط تیم اسکچور هلپر",
+    "image": "https://s16.picofile.com/file/8429013650/PicsArt_03_27_01_55_32.jpg",
+    "video": "https://www.aparat.com/video/video/embed/videohash/tOJGL/vt/frame",
+    "code": "//mode by sketchware helper"
   }
 ]
