@@ -1,5 +1,17 @@
 [
 	{
+		"name": "NavigationBarDesign",
+		"icon": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/images/icon(2).png",
+		"s": "ui",
+		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/NavigationBarDesign%20-%20605.zip"
+	},
+	{
+		"name": "Search listmap",
+		"icon": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/images/icon(1).png",
+		"s": "کاربردی",
+		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/ListviewSearch%20%20-%20647.zip"
+	},
+	{
 		"name": "CALCULATOR",
 		"icon": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/images/icon.png",
 		"s": "حرفه ای",
