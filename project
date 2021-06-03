@@ -1,8 +1,14 @@
 [
   {
+    "name": "BrokenView",
+    "icon": "https://s19.picofile.com/file/8435490776/PicsArt_06_03_07_57_35.png",
+    "s": "مبتدی",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/BrokenView%20-%201183.zip"
+  },
+  {
     "name": "Sketchware Ui",
     "icon": "https://img.icons8.com/material/452/sketchware.png",
-    "s": "مبتدی",
+    "s": "ui",
     "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Sketchware%20DESIGN%20-%20606.zip"
   },
   {
