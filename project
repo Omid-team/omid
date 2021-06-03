@@ -1,5 +1,11 @@
 [
 	{
+		"name": "CALCULATOR",
+		"icon": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/images/icon.png",
+		"s": "حرفه ای",
+		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/CALCULATOR%20-%201175.zip"
+	},
+	{
 		"name": "Color Dropper",
 		"icon": "https://s18.picofile.com/file/8435495350/icon.png",
 		"s": "مبتدی",
