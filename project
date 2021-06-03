@@ -1,73 +1,37 @@
 [
 	{
 		"name": "Screen Recorder",
-		"2": "توضیحات",
-		"icon": "https://s19.picofile.com/file/8432974992/PicsArt_05_07_09_32_08.png",
-		"s1": "https://s19.picofile.com/file/8432975526/Screenshot_20210507_215212.png",
-		"s2": "https://s19.picofile.com/file/8432975550/Screenshot_20210507_215200.png",
-		"s3": "https://s19.picofile.com/file/8432975592/Screenshot_20210507_215145.png",
-		"d": "کاربردی",
-		"h": "45KB",
+		"icon": "https://s18.picofile.com/file/8435463600/icon.png",
 		"s": "حرفه ای",
 		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Screen%20Recorder%20-%20Original%20Sketchware%20-%20619.zip"
 	},
 	{
 		"name": "tic-tac-toe",
-		"2": "توضیحات",
 		"icon": "https://s18.picofile.com/file/8435462192/icon.png",
-		"s1": "https://s19.picofile.com/file/8432975526/Screenshot_20210507_215212.png",
-		"s2": "https://s19.picofile.com/file/8432975550/Screenshot_20210507_215200.png",
-		"s3": "https://s19.picofile.com/file/8432975592/Screenshot_20210507_215145.png",
-		"d": "کاربردی",
-		"h": "45KB",
 		"s": "حرفه ای",
 		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/X-O%20SketchwareTm%20-%201328.zip"
 	},
 	{
 		"name": "apk share",
-		"2": "توضیحات",
 		"icon": "https://s19.picofile.com/file/8435462076/RFFF.png",
-		"s1": "https://s19.picofile.com/file/8432975526/Screenshot_20210507_215212.png",
-		"s2": "https://s19.picofile.com/file/8432975550/Screenshot_20210507_215200.png",
-		"s3": "https://s19.picofile.com/file/8432975592/Screenshot_20210507_215145.png",
-		"d": "کاربردی",
-		"h": "45KB",
 		"s": "مبتدی",
 		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/apk_share%20-%20618.zip"
 	},
 	{
 		"name": "Blur Textview",
-		"2": "توضیحات",
 		"icon": "https://s18.picofile.com/file/8432582200/icon.png",
-		"s1": "https://s19.picofile.com/file/8432778934/Screenshot_20210505_195812.png",
-		"s2": "https://s18.picofile.com/file/8432778992/Screenshot_20210505_195755.png",
-		"s3": "https://s19.picofile.com/file/8432779000/Screenshot_20210505_195744.png",
-		"d": "کاربردی",
-		"h": "31KB",
 		"s": "مبتدی",
 		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Blur%20Textview%20-%20616.zip"
 	},
 	{
 		"name": "SketchUI",
-		"2": "توضیحات",
 		"icon": "https://s18.picofile.com/file/8432806492/PicsArt_05_05_07_48_37.png",
-		"s1": "https://s18.picofile.com/file/8432782700/Screenshot_20210505_203813.png",
-		"s2": "https://s18.picofile.com/file/8432782718/Screenshot_20210505_203759.png",
-		"s3": "https://s18.picofile.com/file/8432782734/Screenshot_20210505_203726.png",
-		"d": "کاربردی",
-		"h": "280KB",
 		"s": "حرفه ای",
 		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/SketchUI%20-%20626.zip"
 	},
 	{
 		"name": "Color Picker",
-		"2": "توضیحات",
 		"icon": "https://s19.picofile.com/file/8432974992/PicsArt_05_07_09_32_08.png",
-		"s1": "https://s19.picofile.com/file/8432975526/Screenshot_20210507_215212.png",
-		"s2": "https://s19.picofile.com/file/8432975550/Screenshot_20210507_215200.png",
-		"s3": "https://s19.picofile.com/file/8432975592/Screenshot_20210507_215145.png",
-		"d": "کاربردی",
-		"h": "45KB",
 		"s": "مبتدی",
 		"link": "https://www.https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Color%20PIcker%20-%20628.zip"
 	}
