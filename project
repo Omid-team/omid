@@ -1,74 +1,94 @@
 [
-	{
-		"name": "NavigationBarDesign",
-		"icon": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/images/icon(2).png",
-		"s": "ui",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/NavigationBarDesign%20-%20605.zip"
-	},
-	{
-		"name": "Search listmap",
-		"icon": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/images/icon(1).png",
-		"s": "کاربردی",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/ListviewSearch%20%20-%20647.zip"
-	},
-	{
-		"name": "CALCULATOR",
-		"icon": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/images/icon.png",
-		"s": "حرفه ای",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/CALCULATOR%20-%201175.zip"
-	},
-	{
-		"name": "Color Dropper",
-		"icon": "https://s18.picofile.com/file/8435495350/icon.png",
-		"s": "مبتدی",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Color%20Dropper%20-%20651.zip"
-	},
-	{
-		"name": "SketchTool",
-		"icon": "https://s18.picofile.com/file/8434885218/20210501_163755.png",
-		"s": "حرفه ای",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/SketchTool%20-%20614.zip"
-	},
-	{
-		"name": "BrokenView",
-		"icon": "https://s19.picofile.com/file/8435490776/PicsArt_06_03_07_57_35.png",
-		"s": "مبتدی",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/BrokenView%20-%201183.zip"
-	},
-	{
-		"name": "Sketchware Ui",
-		"icon": "https://img.icons8.com/material/452/sketchware.png",
-		"s": "ui",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Sketchware%20DESIGN%20-%20606.zip"
-	},
-	{
-		"name": "Screen Recorder",
-		"icon": "https://s18.picofile.com/file/8435463600/icon.png",
-		"s": "حرفه ای",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Screen%20Recorder%20-%20Original%20Sketchware%20-%20619.zip"
-	},
-	{
-		"name": "tic-tac-toe",
-		"icon": "https://s18.picofile.com/file/8435462192/icon.png",
-		"s": "حرفه ای",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/X-O%20SketchwareTm%20-%201328.zip"
-	},
-	{
-		"name": "apk share",
-		"icon": "https://s19.picofile.com/file/8435462076/RFFF.png",
-		"s": "مبتدی",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/apk_share%20-%20618.zip"
-	},
-	{
-		"name": "Blur Textview",
-		"icon": "https://s18.picofile.com/file/8432582200/icon.png",
-		"s": "مبتدی",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Blur%20Textview%20-%20616.zip"
-	},
-	{
-		"name": "SketchUI",
-		"icon": "https://s18.picofile.com/file/8432806492/PicsArt_05_05_07_48_37.png",
-		"s": "حرفه ای",
-		"link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/SketchUI%20-%20626.zip"
-	}
+  {
+    "name": "NavigationBarDesign",
+    "icon": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/images/icon(2).png",
+    "s": "ui",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/NavigationBarDesign%20-%20605.zip",
+    "t": "یک پروژه گرافیکی زیبا و ساده و فوق العاده کاربردی برای افزایش گرافیک برنامتون ",
+    "sc1": "https://shelper.nasihosting.com/ScreenShot/Telegram.SketchwareDesigns_Screenshot_2021.06.27_11.52.05.png",
+    "sc2": "https://shelper.nasihosting.com/ScreenShot/Telegram.SketchwareDesigns_Screenshot_2021.06.27_11.52.11.png",
+    "sc3": "https://shelper.nasihosting.com/ScreenShot/Telegram.SketchwareDesigns_Screenshot_2021.06.27_11.52.15.png",
+    "sc4": "https://shelper.nasihosting.com/ScreenShot/Telegram.SketchwareDesigns_Screenshot_2021.06.27_11.52.20.png"
+  },
+  {
+    "name": "Search listmap",
+    "icon": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/images/icon(1).png",
+    "s": "کاربردی",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/ListviewSearch%20%20-%20647.zip",
+    "t": "پروژه جستجو در لیست مپ یکی از پرکاربرد ترین پروژه ها این پروژه برعکس دیگر پروژه های جستجو بسیار ساده هست",
+    "sc1": "https://shelper.nasihosting.com/ScreenShot/com.sketchware.remod_Screenshot_2021.06.27_13.43.08.png",
+    "sc2": "https://shelper.nasihosting.com/ScreenShot/com.sketchware.remod_Screenshot_2021.06.27_13.43.15.png",
+    "sc3": "https://shelper.nasihosting.com/ScreenShot/com.sketchware.remod_Screenshot_2021.06.27_13.43.21.png",
+    "sc4": "https://shelper.nasihosting.com/ScreenShot/com.sketchware.remod_Screenshot_2021.06.27_13.43.30.png"
+  },
+  {
+    "name": "CALCULATOR",
+    "icon": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/images/icon.png",
+    "s": "حرفه ای",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/CALCULATOR%20-%201175.zip",
+    "t": "یک ماشین حساب فوق العاده و کاربردی بدون باگ و ارور و خیلی با امکانات خوب قابلیت محاسبه سینوس کوسینوس تانژانت و .... بغییر از اینا میتونیم به گرافیک فوق العادشم اشاره کنیم این برنامه سه تم متنوع داره که خودتون میتونید انتخاب کنید که کدوم فعال باشه",
+    "sc1": "https://shelper.nasihosting.com/ScreenShot/com.CALCULATOR_Screenshot_2021.06.27_14.08.40.png",
+    "sc2": "https://shelper.nasihosting.com/ScreenShot/com.CALCULATOR_Screenshot_2021.06.27_14.15.47.png",
+    "sc3": "https://shelper.nasihosting.com/ScreenShot/com.CALCULATOR_Screenshot_2021.06.27_14.15.47.png",
+    "sc4": "https://shelper.nasihosting.com/ScreenShot/com.CALCULATOR_Screenshot_2021.06.27_14.17.22.png"
+  },
+  {
+    "name": "Color Dropper",
+    "icon": "https://s18.picofile.com/file/8435495350/icon.png",
+    "s": "مبتدی",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Color%20Dropper%20-%20651.zip",
+    "t": "پروژه تشخیص دهنده رنگ واقعا عالی و کاربردیه گرافیک چشم گیری نداره ولی از نظر کاربرد واقعا فوق العادس",
+    "sc1": "https://shelper.nasihosting.com/ScreenShot/com.coderzf1.colordropper_Screenshot_2021.06.27_14.47.33.png",
+    "sc2": "https://shelper.nasihosting.com/ScreenShot/com.coderzf1.colordropper_Screenshot_2021.06.27_14.47.39.png",
+    "sc3": "https://shelper.nasihosting.com/ScreenShot/com.coderzf1.colordropper_Screenshot_2021.06.27_14.48.39.png",
+    "sc4": ""
+  },
+  {
+    "name": "SketchTool",
+    "icon": "https://s18.picofile.com/file/8434885218/20210501_163755.png",
+    "s": "حرفه ای",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/SketchTool%20-%20614.zip"
+  },
+  {
+    "name": "BrokenView",
+    "icon": "https://s19.picofile.com/file/8435490776/PicsArt_06_03_07_57_35.png",
+    "s": "مبتدی",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/BrokenView%20-%201183.zip"
+  },
+  {
+    "name": "Sketchware Ui",
+    "icon": "https://img.icons8.com/material/452/sketchware.png",
+    "s": "ui",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Sketchware%20DESIGN%20-%20606.zip"
+  },
+  {
+    "name": "Screen Recorder",
+    "icon": "https://s18.picofile.com/file/8435463600/icon.png",
+    "s": "حرفه ای",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Screen%20Recorder%20-%20Original%20Sketchware%20-%20619.zip"
+  },
+  {
+    "name": "tic-tac-toe",
+    "icon": "https://s18.picofile.com/file/8435462192/icon.png",
+    "s": "حرفه ای",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/X-O%20SketchwareTm%20-%201328.zip"
+  },
+  {
+    "name": "apk share",
+    "icon": "https://s19.picofile.com/file/8435462076/RFFF.png",
+    "s": "مبتدی",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/apk_share%20-%20618.zip"
+  },
+  {
+    "name": "Blur Textview",
+    "icon": "https://s18.picofile.com/file/8432582200/icon.png",
+    "s": "مبتدی",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/Blur%20Textview%20-%20616.zip"
+  },
+  {
+    "name": "SketchUI",
+    "icon": "https://s18.picofile.com/file/8432806492/PicsArt_05_05_07_48_37.png",
+    "s": "حرفه ای",
+    "link": "https://www.vek-bg.com/app/templates/js/ckfinder/userfiles/files/SketchUI%20-%20626.zip"
+  }
 ]
