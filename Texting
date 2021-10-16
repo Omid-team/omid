@@ -5,7 +5,15 @@
     "image": "https://shelper.eliyahost.ir/test.jpg",
     "h": "#info",
     "link": ""
-  },{
+  },
+  {
+    "title": "لطفا حمایت کنید",
+    "d": "ما داریم بهترین خدمات و بهترین امکانات رو ارائه میدهیم و توقع داریم که شما از ما حمایت کنید",
+    "image": "",
+    "h": "#Protection",
+    "link": ""
+    },
+    {
     "title": "اسکچور هلپر ",
     "d": "اسکچور هلپر برترین اراءه دهنده خدمات اسکچور  ",
     "image": "https://assets.myket.ir/screenshots/xlarge/com.sketchware.helper/2d4db438-7650-45ba-93c6-e9062f448e00.png",
